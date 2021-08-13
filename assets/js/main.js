@@ -5,7 +5,7 @@ const CONFIGDATA = {
     buttonYes: 'Có .',
     buttonNo: 'Khum  .',
     titleModar: 'From nguyễn bảo hoàng',
-    descriptionModar: 'Tao biết là mày thích tao mà:vvv .Tao cũng thích mày mà tao không dám nói!! ',
+    descriptionModar: 'Tao biết là mày thích tao mà:vvv .Tao cũng thích mày mà tao không dám nói:(( ',
 };
 
 
