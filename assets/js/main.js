@@ -2,10 +2,10 @@
 const CONFIGDATA = {
     titleHeader: 'địt mẹ mày có thích tao không? ',
     descriptionHeader: 'Nếu mày thoát ra và không trả lời thì có nghĩa là mày đã ĐỒNG Ý rồi đấy :vv',
-    buttonYes: 'Có',
+    buttonYes: 'Có .',
     buttonNo: 'Khum  .',
-    titleModar: 'nguyễn bảo hoàng',
-    descriptionModar: 'Tao biết là mày thích tao mà:vvv "',
+    titleModar: 'From nguyễn bảo hoàng',
+    descriptionModar: 'Tao biết là mày thích tao mà:vvv .Tao cũng thích mày nhiều lăm!! ',
 };
 
 
