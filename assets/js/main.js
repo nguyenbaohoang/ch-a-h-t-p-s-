@@ -4,7 +4,7 @@ const CONFIGDATA = {
     descriptionHeader: 'Nếu mày thoát ra và không trả lời thì có nghĩa là mày đã ĐỒNG Ý rồi đấy :vv',
     buttonYes: 'Có',
     buttonNo: 'Khum  .',
-    titleModar: 'chúa hề tập sự',
+    titleModar: 'nguyễn bảo hoàng',
     descriptionModar: 'Tao biết là mày thích tao mà:vvv "',
 };
 
