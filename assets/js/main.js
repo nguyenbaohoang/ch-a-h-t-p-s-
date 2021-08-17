@@ -1,11 +1,11 @@
 // CONFIG DATA 
 const CONFIGDATA = {
-    titleHeader: 'địt mẹ mày có thích tao không? ',
-    descriptionHeader: 'Nếu mày thoát ra và không trả lời thì có nghĩa là mày đã ĐỒNG Ý rồi đấy :vv',
+    titleHeader: 'Cho tao xin lỗi đi mà :((',
+    descriptionHeader: 'Nếu mày thoát ra là tha lỗi cho tao rồi đấy :v',
     buttonYes: 'Có .',
     buttonNo: 'Khum  .',
-    titleModar: 'From nguyễn bảo hoàng',
-    descriptionModar: 'Tao biết là mày thích tao mà:vvv .Tao cũng thích mày mà tao không dám nói:(( ',
+    titleModar: 'From bẻo hoèng',
+    descriptionModar: 'thanks bae.Tao chỉ muốn xinloi thôi mà <br>tao biết nói vậy là không đúng nhưng mà tao thật sự xinloi mày<br>tại tao muốn khen mày mà tao không dám:(( ',
 };
 
 
